@@ -1,0 +1,50 @@
+.header-contacts{
+    padding: 5px; 
+    color: #0d88da; 
+    background-color: white;
+}
+
+
+.header-contacts2{
+    padding: 15px;
+    text-decoration: none;
+    
+}
+
+.header-social{
+ position: absolute;
+ top: 15px;
+ right: 10px;
+}
+
+.header-social2{
+    position: absolute;
+    top: 15px;
+    right: 50px;
+   }
+
+   .header-style{
+       background-color:teal ;
+   }
+
+   .logo{
+       margin-top: 15px;
+       width: 150px;
+   }
+
+   .nav-menu{
+       text-align: center;
+       background-color: teal;
+   }
+   .nav-link{
+       padding: 20px;
+       margin: 10px;
+       text-decoration: none;
+       position: relative;
+       bottom: 70px;
+       border-style: solid;
+       border-radius: 12px;
+       background-color: teal;
+       color: springgreen;
+       font-size: 25px;
+   }
